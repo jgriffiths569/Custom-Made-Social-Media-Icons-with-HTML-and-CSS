@@ -1,0 +1,83 @@
+//Custom made whatsapp icon linking people on your site to connect with you on whatsapp through an icon
+<html>
+	<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="Obama">
+	 <title>For Wix</title>
+        <style>
+@import url('https://fonts.googleapis.com/css2?family=Maiden+Orange&display=swap');
+    
+            main > p{
+                font-family: Maiden Orange
+            }  
+            
+            main > p1{
+                font-family: Maiden Orange
+            }
+</style>
+	</head>
+	<body style="background-color:black;">
+
+
+        
+        <a href="https://wa.me/<insert your number>". target="popup"/>
+           
+           <img width="26" height="27" src="data:image/png;base64,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"./>
+	</body>
+</html>
+
+//Custom made Facebook Messenger icon linking people on your site to connect with you on Facebook Messenger through an icon
+
+
+<html>
+	<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="Obama">
+	 <title>For Wix</title>
+        <style>
+@import url('https://fonts.googleapis.com/css2?family=Maiden+Orange&display=swap');
+    
+            main > p{
+                font-family: Maiden Orange
+            }  
+            
+            main > p1{
+                font-family: Maiden Orange
+            }
+</style>
+	</head>
+	<body style="background-color:black;">
+
+<a href="https://www.messenger.com/t/yourusername". target="popup"/>
+           
+           <img width="40" height="44" src="data:image/png;base64,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"./>
+
+//Create HTML text and a background color for your site
+
+<html>
+	<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="Obama">
+	 <title>For Wix</title>
+        <style>
+@import url('https://fonts.googleapis.com/css2?family=Maiden+Orange&display=swap');
+    
+            main > p{
+                font-family: Maiden Orange
+            }  
+            
+            main > p1{
+                font-family: Maiden Orange
+            }
+</style>
+	</head>
+	<body style="background-color:black;" >
+        <main>
+	<p style="color:white;"><big><big><big><big>yourtext</p> </big> </big></big></big>
+        
+   <p1 style="color:white;"><big><big><big><big>
+ yourtext</p1> </big> </big></big></big>
+       
+        </main>
+	</body>
+</html>
